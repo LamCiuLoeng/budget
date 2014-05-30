@@ -1,0 +1,54 @@
+
+.budget-table td {
+    padding: 2px 10px;
+}
+
+.budget-table input {
+	width:  80px;
+}
+
+.bg-99ccff {
+    background-color: #99ccff;
+}
+
+.bg-ffff99 {
+    background-color: #ffff99;
+}
+
+.text-red {
+    color: red;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight:  bold;
+}
+
+.budget-table .text-left {
+    text-align: left;
+}
+
+.fee{
+	text-align : right;
+}
+
+.feechange{
+	background-color : #d1ffd5;
+	/*color : white;*/
+	text-align : right;
+}
+.feecal{
+	background-color : #ffffc3;
+	text-align : right;
+}
+
+.feewarning{
+	background-color : #ffd1d1;
+}
+
+.erpfee{
+	text-align : right;
+}

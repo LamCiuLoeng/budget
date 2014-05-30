@@ -1,0 +1,77 @@
+/*form input,form select,form textarea{background-color:#fff;}
+form textarea.expanding{overflow:auto;overflow-x:auto;overflow-y:visible;}*/
+fieldset{font-family:Verdana, Arial, Helvetica, sans-serif;clear:both;font-size:11px;border-color:#000;border-style:solid none none;border-width:1px 0 0;margin:0;padding:10px;}
+fieldset legend{font-size:16px;font-weight:600;color:#000;padding:0 5px;}
+fieldset label,form fieldset span{display:block;float:left;margin:0 0 1px;padding:5px;line-height:20px;}
+fieldset label{width:160px;text-align:right;margin:0 5px 1px;font-weight:600;}
+fieldset label.white{background:white;}
+fieldset label.short{text-align:left;}
+fieldset label.compact{display:inline;width:auto;text-indent:0;margin:0;padding:4px 10px 0 0;}
+fieldset div{clear:left;display:block;zoom:1px;}
+fieldset div select.selectOne,
+fieldset div select.selectMultiple{width:211px;padding:1px 3px;}
+fieldset div input.inputCheckbox,
+fieldset div input.inputRadio{display:inline;height:auto;width:auto;background-color:transparent;border-width:0;margin:0 0 0 140px;padding:0;}
+fieldset div select,
+fieldset div textarea,
+fieldset div input.inputText,
+fieldset div input.inputFile{width:200px;margin:0;padding:1px 3px;}
+fieldset div input.inputSubmit,
+fieldset div input.inputButton{font-size:12px;padding:0 6px;margin-top:10px;}
+fieldset fieldset div.notes{float:right;width:158px;height:auto;border:1px solid #666;background-color:#ffffe1;color:#666;font-size:88%;margin:0 0 10px 10px;padding:5px;}
+fieldset fieldset div.notes h4{background-image:url(/images/icon_info.gif);background-repeat:no-repeat;background-position:top left;color:#666;font-size:110%;border-color:#666;border-style:solid;border-width:0 0 1px;padding:3px 0 3px 27px;}
+fieldset fieldset div.notes p{color:#666;margin:0 0 1.2em;}
+/*
+form fieldset label u{font-style:normal;text-decoration:underline;}
+form fieldset input,
+form fieldset select,
+form fieldset textarea{font-size:100%;color:#000;}
+form fieldset textarea{overflow:auto;}*/
+
+
+/*form div fieldset{clear:none;width:197px;border-color:#666;border-style:solid;border-width:1px;margin:0 0 0 144px;padding:0 5px 5px;}
+form div fieldset legend{font-size:100%;padding:0 3px 0 9px;}
+
+form div img{float:left;border:1px solid #000;margin:0 0 5px;}
+form div.error{background-color:#ffffe1;background-image:url(/images/required_bg.gif);background-repeat:no-repeat;background-position:top left;color:#666;border:1px solid red;}
+form div.error p.error{background-image:url(/images/icon_error.gif);background-position:top left;background-color:transparent;font-size:88%;font-weight:700;width:200px;color:red;border-style:none;margin:0 0 0 118px;}
+
+
+
+form div.wide input.inputText,
+form div.wide input.inputPassword,
+form div.wide input.inputFile,
+form div.wide select,
+form div.wide textarea{width:344px;margin:0;}
+
+form div fieldset textarea,
+form div fieldset select,
+form div fieldset input.inputText,
+form div fieldset input.inputPassword,
+form div fieldset input.inputFile{width:160px;}
+
+form div.submit{width:214px;padding:0 0 0 146px;}
+form div.submit div{display:inline;float:left;text-align:left;width:auto;margin:0;padding:0;}
+form div.submit div input.inputSubmit,
+form div.submit div input.inputButton{float:right;margin:0 0 0 5px;}
+
+
+form div.wide small{margin:0 0 5px;}
+
+form div.notes p,form div small{line-height:125%;}
+form div small{display:block;font-size:88%;zoom:1px;margin:0 0 5px 142px;padding:1px 3px;}
+
+p.error{background-color:red;background-image:url(/images/icon_error.gif);background-repeat:no-repeat;background-position:3px 3px;color:#fff;border:1px solid #000;margin:auto 100px;padding:3px 3px 5px 27px;}
+*/
+
+/*
+form div label.labelCheckbox,form div label.labelRadio,label.labelCheckbox,label.labelRadio{display:block;width:190px;zoom:1px;text-indent:-18px;line-height:120%;padding:4px 0 0 18px;}
+form div.optional label,label.optional{font-weight:400;}
+form div label.labelCheckbox,form div label.labelRadio{float:none;display:block;width:200px;zoom:1px;text-align:left;margin:0 0 5px 142px;padding:0;}
+form div fieldset label.labelCheckbox,form div fieldset label.labelRadio{width:170px;margin:0 0 5px;}
+form div.wide label{float:none;display:block;}
+form div label.wide{width:348px;}
+form fieldset div.notes p.last,form div label.labelCheckbox input.inputCheckbox,form div label.labelRadio input.inputRadio,label.labelCheckbox input.inputCheckbox,label.labelRadio input.inputRadio{margin:0;}
+form div.required fieldset legend,form div.required label,label.required{font-weight:700;}
+div.optional label:before,div.required label:before{content:'';}
+*/
